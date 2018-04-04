@@ -1,0 +1,1 @@
+Give a file named numbers.txt, write a program that reads the contents of the file and prints the total of double of all the values in it.
